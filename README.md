@@ -24,7 +24,7 @@ A simple, interactive command-line tool built in Python to check the preliminary
 3. Open your terminal or VS Code inside the project folder.
 4. Run the script using the following command:
    ```bash
-   python army.py
+   python Agniveer.py
    ```
 
 ---
